@@ -4,11 +4,35 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7a1172ce-be1e-42c5-a0de-1880bd8c3b6b" name="Changes" comment="adding Classes generated from me">
+    <list default="true" id="7a1172ce-be1e-42c5-a0de-1880bd8c3b6b" name="Changes" comment="Creating main loop &#10;connecting  Menu and Gmane Classes">
+      <change afterPath="$PROJECT_DIR$/code/Const.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/code/Game.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/Game.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/code/Menu.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/Menu.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sons/credit.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sons/death_0.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sons/death_1.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sons/eat_dot_0.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sons/eat_dot_1.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sons/eat_fruit.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sons/eat_ghost.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sons/extend.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sons/eyes.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sons/eyes_firstloop.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sons/fright.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sons/fright_firstloop.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sons/intermission.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sons/siren0.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sons/siren0_firstloop.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sons/siren1.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sons/siren1_firstloop.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sons/siren2.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sons/siren2_firstloop.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sons/siren3.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sons/siren3_firstloop.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sons/siren4.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sons/siren4_firstloop.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sons/start.wav" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,12 +75,18 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Game.executor": "Run",
+    "Python.Menu.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Projetos\code" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -97,7 +127,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742825203214</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Creating main loop &#10;connecting  Menu and Gmane Classes">
+      <option name="closed" value="true" />
+      <created>1742826822843</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1742826822843</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -114,6 +152,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="adding Classes generated from me" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding Classes generated from me" />
+    <MESSAGE value="Creating main loop &#10;connecting  Menu and Gmane Classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creating main loop &#10;connecting  Menu and Gmane Classes" />
   </component>
 </project>

@@ -5,34 +5,46 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a1172ce-be1e-42c5-a0de-1880bd8c3b6b" name="Changes" comment="Creating main loop &#10;connecting  Menu and Gmane Classes">
-      <change afterPath="$PROJECT_DIR$/code/Const.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/intermission1.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/intermission2.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/intermission3.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/menusnake.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset/credit.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset/death_0.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset/death_1.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset/eat_dot_0.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset/eat_dot_1.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset/eat_fruit.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset/eat_ghost.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset/extend.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset/eyes.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset/eyes_firstloop.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset/fright.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset/fright_firstloop.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset/game over.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset/intermission.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset/pacmanmenu.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset/siren0.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset/siren0_firstloop.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset/siren1.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset/siren1_firstloop.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset/siren2.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset/siren2_firstloop.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset/siren3.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset/siren3_firstloop.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset/siren4.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset/siren4_firstloop.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset/start.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/Background.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/Const.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/Const.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/Enemy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/Entity.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/EntityFactory.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/code/Game.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/Game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/Level.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/Level.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/code/Menu.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/Menu.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sons/credit.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sons/death_0.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sons/death_1.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sons/eat_dot_0.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sons/eat_dot_1.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sons/eat_fruit.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sons/eat_ghost.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sons/extend.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sons/eyes.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sons/eyes_firstloop.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sons/fright.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sons/fright_firstloop.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sons/intermission.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sons/siren0.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sons/siren0_firstloop.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sons/siren1.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sons/siren1_firstloop.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sons/siren2.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sons/siren2_firstloop.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sons/siren3.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sons/siren3_firstloop.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sons/siren4.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sons/siren4_firstloop.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sons/start.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagens/Custom Edited - Pac-Man Customs - Pac-Man Ms Pac-Man &amp; Pac-Man Plus NES-Style.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagens/maxresdefault.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,23 +61,24 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Leapha"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Leapha&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Leapha/pacman.git",
-    "accountId": "f66d6958-4da2-4ce6-8738-adeaae49708e"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Leapha/pacman.git&quot;,
+    &quot;accountId&quot;: &quot;f66d6958-4da2-4ce6-8738-adeaae49708e&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
   <component name="ProjectId" id="2ujGvhfvV5ewtHKOyb8D1fjxToS" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -79,13 +92,47 @@
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Projetos/asset"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Projetos\asset" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Projetos\asset" />
       <recent name="C:\Projetos\code" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Projetos" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
